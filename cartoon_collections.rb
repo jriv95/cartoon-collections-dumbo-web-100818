@@ -7,7 +7,6 @@ end
 def summon_captain_planet(array)
   "#{call[0].upcase + call[1..-1]}!"
 end
-end
 
 def long_planeteer_calls# code an argument here
   # Your code here
